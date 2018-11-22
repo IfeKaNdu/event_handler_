@@ -1,2 +1,0 @@
-# myjssample
-Sample JS Eventlisteners
